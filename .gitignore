@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#catboost
+# catboost
 catboost_info
+
+# copy
+Feature Engineering & Prediction-Copy1.ipynb
